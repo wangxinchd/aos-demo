@@ -5,5 +5,5 @@
 ## 案例1: cut-in 场景
 在简单直道上，后方有高速来车cut-in 主车
 
-[![cut-in_demo](https://github.com/wangxinchd/aos-demo/assets/49182176/587c56f6-802a-4ee3-b574-119d0456b9e4)](https://github.com/wangxinchd/aos-demo/assets/49182176/94830406-2209-4586-a222-1b329c384c8d)
+[![cut-in_demo]()](https://github.com/wangxinchd/aos-demo/assets/49182176/94830406-2209-4586-a222-1b329c384c8d)
 
