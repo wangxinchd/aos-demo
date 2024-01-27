@@ -17,3 +17,12 @@
 
 [![cut-in_demo]()](https://github.com/wangxinchd/aos-demo/assets/49182176/94830406-2209-4586-a222-1b329c384c8d)
 
+# openScenario 编辑器案例说明
+下述案例采用的是 我自己开发的openScenario 编辑器，构建的xosc场景，目前只简单的完成了对于主车的添加，产生的场景，可以采用aos仿真工具进行解析，确定主车的行为。
+## 案例1: openScenario 编辑器编辑主车
+案例说明：在双向单车道，添加了主车，初始化位置为(10, -1.5), 车速为10。位置采用的是绝对位置，速度采用的是绝对速度
+[![ego forward]()](https://github.com/wangxinchd/aos-demo/assets/49182176/6da15611-94ed-49ab-b510-0a90b922050c）
+
+
+
+
